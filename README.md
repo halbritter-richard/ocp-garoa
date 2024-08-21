@@ -4,4 +4,4 @@ Detalhes do projeto disponíveis em <a href="https://garoa.net.br/wiki/Garoa_Xun
 <br>
 <br>
 
-![20210526195830!Display_hack_bitmap](https://github.com/user-attachments/assets/377f54f6-b1cf-440f-9277-383b7624f15d)
+![20210526195449!Opencp](https://github.com/user-attachments/assets/5318e79d-1787-464f-a89a-808a4bd96967)
